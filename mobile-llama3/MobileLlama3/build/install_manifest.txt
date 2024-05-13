@@ -1,0 +1,2 @@
+/home/tiwarinitin1999/mlc-llm/android/MLCChat/build/output/tvm4j_core.jar
+/home/tiwarinitin1999/mlc-llm/android/MLCChat/build/output/arm64-v8a/libtvm4j_runtime_packed.so

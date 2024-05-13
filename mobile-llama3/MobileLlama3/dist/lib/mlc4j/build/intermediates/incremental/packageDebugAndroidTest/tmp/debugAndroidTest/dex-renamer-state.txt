@@ -1,0 +1,10 @@
+#Mon May 13 16:13:07 UTC 2024
+base.0=/home/tiwarinitin1999/mobile-llama3/MobileLlama3/dist/lib/mlc4j/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/home/tiwarinitin1999/mobile-llama3/MobileLlama3/dist/lib/mlc4j/build/intermediates/dex/debugAndroidTest/mergeLibDexDebugAndroidTest/0/classes.dex
+base.2=/home/tiwarinitin1999/mobile-llama3/MobileLlama3/dist/lib/mlc4j/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=0/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

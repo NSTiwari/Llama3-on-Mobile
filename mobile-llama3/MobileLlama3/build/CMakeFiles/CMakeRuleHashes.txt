@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+724e37d5e1509df8c6fbfd0845e22041 CMakeFiles/tvm4j_core
+59031fa81cc13cb24480b5af6c246b0a CMakeFiles/tvm4j_core.dir/java_class_filelist
+be4744646cc48476dbd382311273a352 CMakeFiles/tvm4j_core.dir/java_compiled_tvm4j_core
+237b28c974e81a815326128817bbde67 mlc_llm/tokenizers/aarch64-linux-android/release/libtokenizers_c.a
+255290b02e8dcf313a5f2bd9925ffde9 mlc_llm/tvm/CMakeFiles/runtime
+d30bd2f58f83d8e9f8067fdd44c5cadb tvm4j_core.jar

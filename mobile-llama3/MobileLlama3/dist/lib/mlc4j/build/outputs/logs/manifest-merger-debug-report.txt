@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tiwarinitin1999/Llama3-on-Mobile/mobile-llama3/MobileLlama3/dist/lib/mlc4j/src/main/AndroidManifest.xml:2:1-4:12
+INJECTED from /home/tiwarinitin1999/Llama3-on-Mobile/mobile-llama3/MobileLlama3/dist/lib/mlc4j/src/main/AndroidManifest.xml:2:1-4:12
+	package
+		INJECTED from /home/tiwarinitin1999/Llama3-on-Mobile/mobile-llama3/MobileLlama3/dist/lib/mlc4j/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tiwarinitin1999/Llama3-on-Mobile/mobile-llama3/MobileLlama3/dist/lib/mlc4j/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /home/tiwarinitin1999/Llama3-on-Mobile/mobile-llama3/MobileLlama3/dist/lib/mlc4j/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/tiwarinitin1999/Llama3-on-Mobile/mobile-llama3/MobileLlama3/dist/lib/mlc4j/src/main/AndroidManifest.xml
+INJECTED from /home/tiwarinitin1999/Llama3-on-Mobile/mobile-llama3/MobileLlama3/dist/lib/mlc4j/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/tiwarinitin1999/Llama3-on-Mobile/mobile-llama3/MobileLlama3/dist/lib/mlc4j/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/tiwarinitin1999/Llama3-on-Mobile/mobile-llama3/MobileLlama3/dist/lib/mlc4j/src/main/AndroidManifest.xml

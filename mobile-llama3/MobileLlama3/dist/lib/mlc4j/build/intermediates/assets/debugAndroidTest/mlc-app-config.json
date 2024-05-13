@@ -1,0 +1,10 @@
+{
+  "model_list": [
+    {
+      "model_id": "llama-3-8b-q4f16_1",
+      "model_lib": "llama-q4f16_1",
+      "model_url": "https://huggingface.co/NSTiwari/Llama-3-8B-q4f16_1-android",
+      "estimated_vram_bytes": 4348727787
+    }
+  ]
+}
