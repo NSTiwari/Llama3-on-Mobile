@@ -151,7 +151,7 @@ fun MessageView(messageData: MessageData) {
                     modifier = Modifier
                         .wrapContentWidth()
                         .background(
-                            color = Color(0xFF261900),
+                            color = Color(0xFF5C4200),
                             shape = RoundedCornerShape(5.dp)
                         )
                         .padding(5.dp)
@@ -172,7 +172,7 @@ fun MessageView(messageData: MessageData) {
                     modifier = Modifier
                         .wrapContentWidth()
                         .background(
-                            color = Color(0xFF5C4200),
+                            color = Color(0xFF261900),
                             shape = RoundedCornerShape(5.dp)
                         )
                         .padding(5.dp)
