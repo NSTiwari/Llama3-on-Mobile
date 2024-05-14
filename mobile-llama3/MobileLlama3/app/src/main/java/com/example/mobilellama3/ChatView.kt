@@ -60,7 +60,7 @@ fun ChatView(
         TopAppBar(
             title = {
                 Text(
-                    text = "Mobile Llama " + chatState.modelName.value.split("-")[0],
+                    text = "Mobile Llama3",
                     color = Color.White
                 )
             },
