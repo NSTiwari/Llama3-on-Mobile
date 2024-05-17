@@ -13,7 +13,7 @@ This repository is an implementation of converting the Llama3-8B-Instruct model 
 2. [HuggingFace repository](https://huggingface.co/NSTiwari/Llama-3-8B-q4f16_1-android) for Llama3-8B-Instruct converted weights.
 3. [Medium blog]() for step-by-step implementation to deploy Llama-3-8B-Instruct on Android.
 4. [Medium blog]() to set up environment on Google Cloud Platform VM instance.
-5. Install the [APK]() directly.
+5. Install the [APK](https://github.com/NSTiwari/Llama3-on-Mobile/blob/main/mobilellama3.apk) directly.
 
 
 ## Citation
