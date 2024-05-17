@@ -1,5 +1,5 @@
 # Llama3 on Mobile
-This repository is an implementation of converting the Llama3-8B-Instruct model weights and deploying it on Android for on-device inference.
+This repository is an implementation of quantizing and converting the Llama3-8B-Instruct model weights and deploying it on Android for on-device inference.
 
 ## Pipeline:
 <img src="https://github.com/NSTiwari/Llama3-on-Mobile/blob/main/mobile-llama3-pipeline.png"/>
