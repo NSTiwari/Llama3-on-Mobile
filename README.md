@@ -7,6 +7,12 @@ This repository is an implementation of converting the Llama3-8B-Instruct model 
 # Demo Output:
 <img src="https://github.com/NSTiwari/Llama3-on-Mobile/blob/main/mobilellama3.gif"/>
 
+## Resources:
+
+1. [Colab notebook to quantize and convert Llama3-8B-Instruct model](https://github.com/NSTiwari/Llama3-on-Mobile/blob/main/Llama3_on_Mobile.ipynb)
+2. Read the [Medium blog]() for step-by-step implementation to deploy Llama-3-8B-Instruct on Android.
+3. Read the [Medium blog]() to set up environment on Google Cloud Platform VM instance.
+4. Install the [APK]() directly.
 
 
 ## Citation
