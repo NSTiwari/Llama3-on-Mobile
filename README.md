@@ -10,9 +10,10 @@ This repository is an implementation of converting the Llama3-8B-Instruct model 
 ## Resources:
 
 1. [Colab notebook to quantize and convert Llama3-8B-Instruct model](https://github.com/NSTiwari/Llama3-on-Mobile/blob/main/Llama3_on_Mobile.ipynb)
-2. [Medium blog]() for step-by-step implementation to deploy Llama-3-8B-Instruct on Android.
-3. [Medium blog]() to set up environment on Google Cloud Platform VM instance.
-4. Install the [APK]() directly.
+2. [HuggingFace repository](https://huggingface.co/NSTiwari/Llama-3-8B-q4f16_1-android) for Llama3-8B-Instruct converted weights.
+3. [Medium blog]() for step-by-step implementation to deploy Llama-3-8B-Instruct on Android.
+4. [Medium blog]() to set up environment on Google Cloud Platform VM instance.
+5. Install the [APK]() directly.
 
 
 ## Citation
