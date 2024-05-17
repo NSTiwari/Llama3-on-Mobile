@@ -4,7 +4,7 @@ This repository is an implementation of converting the Llama3-8B-Instruct model 
 ## Pipeline:
 <img src="https://github.com/NSTiwari/Llama3-on-Mobile/blob/main/mobile-llama3-pipeline.png"/>
 
-# Demo Output:
+## Demo Output:
 <img src="https://github.com/NSTiwari/Llama3-on-Mobile/blob/main/mobilellama3.gif"/>
 
 ## Resources:
