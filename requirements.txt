@@ -1,0 +1,7 @@
+--pre
+--extra-index-url https://mlc.ai/wheels
+mlc-ai-nightly-cu122
+mlc-llm-nightly-cu122
+torch
+numpy==1.23.5
+huggingface_hub
